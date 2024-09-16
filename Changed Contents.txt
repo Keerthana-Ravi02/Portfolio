@@ -1,0 +1,13 @@
+Removed background image.
+Title page changed.
+Changed name and Designation.
+Links under name were changed to facebook, Instagram, linkedin and gave title name.
+Changed image.
+Edited About me.
+Changed the order as About me -> Education -> Work Experience -> Projects -> Social Network -> Contact.
+Edited Work Experience with details and company logos.
+Edited the Projects as Web Designing, Sewing and Dress Making, Handmade Craftworks, Paintings and Artworks with images. (Pexels)
+Edited Social network as Instagram, LinkedIn with my links.
+Edited the logo design with Bootstrap icons.
+Changed copyrights with Keerthana Ravichandran(only Name).
+Changed links to my original linkedin link.
